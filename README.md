@@ -66,3 +66,4 @@ For all:
 • Read the Introduction and Section 2 of “Mussa Puzzle Redux” by Oleg Itskokhi and Dmitry Mukhin! 
 • Read “An Economist’s Guide to Visualizing Data” by Jonathan Schwabish
 
+
