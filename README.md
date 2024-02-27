@@ -1,4 +1,4 @@
-# EC1B1
+# EC1B1 - 1
 All of the instructions for what we are meant to do for the project will be listed here and (in more detail) on the Google Doc
 • Timelines. Final submission of the coursework is due in W9, Wednesday 13th March by 22:00. Penalties will be applied for late submission, please liaise with the course manager if you encounter any major issues. 
 ∗ W5: Assigned groups and countries 
